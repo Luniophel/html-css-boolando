@@ -36,6 +36,7 @@
 }
 .product:hover .photo{
     display: block;
+    cursor: pointer;
 }
 .p-brand{
     font-size: 11px;
